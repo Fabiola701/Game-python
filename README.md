@@ -1,5 +1,5 @@
 # Game-python
-final project computer programming
+# Final Project Computer Programming
 # 🎮 NEON ASCENT: Protokol Peninggalan Cyber
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
@@ -28,7 +28,7 @@ final project computer programming
 
 **Neon Ascent** adalah proyek tugas akhir mata kuliah Pemrograman Komputer yang mengimplementasikan berbagai konsep dasar Python dalam bentuk game interaktif.
 
-### 🎯 Tujuan Pembelajaran
+### Tujuan Pembelajaran
 
 Proyek ini dibuat untuk mendemonstrasikan pemahaman tentang:
 - ✅ Tipe data Python (Tuple, List, Set, Dictionary)
@@ -42,14 +42,14 @@ Proyek ini dibuat untuk mendemonstrasikan pemahaman tentang:
 
 ## ⚡ Fitur Utama
 
-### 🎭 Gameplay Features
+### Gameplay Features
 - **Sistem Pertarungan Interaktif** - Lawan musuh dengan 4 kekuatan cyber unik
 - **Eksplorasi Area** - Jelajahi 5 lokasi berbeda dengan random encounters
 - **Puzzle Hacking** - Pecahkan firewall dengan strategi yang tepat
 - **Sistem Inventori** - Kumpulkan dan gunakan item untuk bertahan hidup
 - **Multiple Endings** - Cerita berakhir berbeda berdasarkan gaya bermain Anda
 
-### 💾 Technical Features
+### Technical Features
 - **Save/Load System** - Simpan progres ke file `.txt`
 - **Slow Typing Effect** - Efek mengetik seperti terminal hacker asli
 - **ASCII Art** - Interface visual menarik di terminal
@@ -269,9 +269,9 @@ Proyek ini dibuat untuk keperluan akademik. Bebas digunakan untuk pembelajaran.
 
 ## 🌐 Kontak & Link
 
-- 📧 Email: [email@example.com]
-- 🔗 GitHub: [https://github.com/username/neon-ascent]
-- 📱 Instagram: [@username]
+- 📧 Email: [waleanfabiola@gmail.com]
+- 🔗 GitHub: [[https://github.com/username/neon-ascent](https://github.com/Fabiola701)]
+- 📱 Instagram: [@lalaaawn]
 
 ---
 
@@ -281,12 +281,15 @@ Proyek ini dibuat untuk keperluan akademik. Bebas digunakan untuk pembelajaran.
 
 Terima kasih telah bermain **Neon Ascent**! 🎮✨
 
-**Made with 💙 by [Nama Tim/Kelompok]**
+**Made with 💙 by [Group 6]**
 
 ---
 
-### 🎓 Untuk Dosen Penguji
+### Members of Group 6:
+1. Marselino
+2. Gabrilian
+3. Fabiola
 
-File ini merupakan bagian dari tugas akhir mata kuliah **Pemrograman Komputer**. Semua kode ditulis sendiri oleh tim kami dan mengimplementasikan konsep-konsep yang telah diajarkan di kelas.
+File ini merupakan bagian dari tugas akhir mata kuliah **Computer Programming**. Kode ini mengimplementasikan konsep-konsep yang telah diajarkan di kelas.
 
 **Verifikasi:** Silakan cek commit history di GitHub untuk melihat proses development.
