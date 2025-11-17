@@ -238,28 +238,6 @@ Karena ini adalah **proyek kelompok**, kami membagi kode menjadi versi yang lebi
 
 ---
 
-## 🚀 Cara Menjelaskan ke Teman/Dosen
-
-### 1. **Penjelasan Umum** (5 menit)
-"Ini adalah text-based RPG di mana pemain menjelajahi dunia cyberpunk. Game ini mendemonstrasikan penggunaan berbagai tipe data Python dan control flow."
-
-### 2. **Demo Fitur** (5 menit)
-- Jalankan game
-- Tunjukkan combat system
-- Simpan dan load game
-- Tunjukkan multiple endings
-
-### 3. **Penjelasan Teknis** (10 menit)
-- Tunjukkan penggunaan Tuple untuk konstanta
-- Jelaskan List untuk inventori dinamis
-- Demonstrasi Set untuk tracking musuh
-- Diskusi Dictionary untuk data kompleks
-- Jelaskan While dan For loops dalam game flow
-
-### 4. **Q&A** (5 menit)
-
----
-
 ## 📝 Lisensi
 
 Proyek ini dibuat untuk keperluan akademik. Bebas digunakan untuk pembelajaran.
