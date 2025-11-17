@@ -102,7 +102,7 @@ data_pemain = {
 1. **Clone repository**
 ```bash
 git clone https://github.com/username/neon-ascent.git
-cd neon-ascent
+cd neonAscent
 ```
 
 2. **Jalankan game**
