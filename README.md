@@ -167,9 +167,8 @@ Repository ini memiliki beberapa versi file untuk memudahkan pembelajaran:
 
 | File | Deskripsi | Lines of Code |
 |------|-----------|---------------|
-| `neon_ascent_full.py` | Versi lengkap dengan semua fitur | ~500 baris |
-| `neon_ascent_core.py` | Hanya fitur inti (combat + exploration) | ~300 baris |
-| `neon_ascent_simple.py` | Versi paling sederhana untuk presentasi | ~150 baris |
+| `neonAscent.py` | Versi lengkap dengan semua fitur | ~500 baris |
+| `neonAscent_o.py` | Hanya fitur inti (combat + exploration) | ~300 baris |
 
 ### 💡 Mengapa Ada Beberapa Versi?
 
@@ -188,12 +187,12 @@ Karena ini adalah **proyek kelompok**, kami membagi kode menjadi versi yang lebi
 
 ## 👥 Kontribusi Tim
 
-| Nama | NPM | Kontribusi |
+| Nama | NIM | Kontribusi |
 |------|-----|------------|
-| [Nama 1] | [NPM] | Game logic & combat system |
-| [Nama 2] | [NPM] | File handling & save system |
-| [Nama 3] | [NPM] | UI/UX & ASCII art |
-| [Nama 4] | [NPM] | Testing & documentation |
+| Fabiola Walean | 105022510040 | Game logic & combat system |
+| Marselino & Fabiola | - | File handling & save system |
+| Marselino | - | UI/UX & ASCII art |
+| Gabrilian | -| Testing & documentation |
 
 ---
 
